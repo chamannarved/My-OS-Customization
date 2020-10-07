@@ -32,11 +32,11 @@
 
 Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 
-    `sudo apt install gnome-tweak-tool`
+    sudo apt install gnome-tweak-tool
 
 ### Enable user themes in Ubuntu 18.04
 
-    `sudo apt install gnome-shell-extensions`
+     sudo apt install gnome-shell-extensions
 
 ## Appearance:-
 
@@ -67,4 +67,4 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
   > > > ![Screenshot-5](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-5.png)  
   > > > ![Screenshot-6](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-6.png)
 
-  > **Note:** _desh to dock_ have some isssue in _ubuntu dock_ so After these setting disable desh to dock extenton in _gnome-tweaks_ this will keeps the setting as it is but the ubuntu dock issus is solved.
+  > **Note:** _desh to dock_ have some isssue with _ubuntu dock_ so After these setting disable desh to dock extenton in _gnome-tweaks_ this will keeps the setting as it is but the ubuntu dock issus is solved.
