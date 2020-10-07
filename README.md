@@ -20,3 +20,13 @@
           -+sssssssssssssssssssssyyyssss+-         GPU: Intel UHD Graphics 620
             `:+ssssssssssssssssssssss+:`           Memory: 4366MiB / 7869MiB
                 .-/+oossssssssoo+/-.
+
+## First install Gnome Tweaks.
+
+Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
+
+    `sudo apt install gnome-tweak-tool`
+
+### Enable user themes in Ubuntu 18.04
+
+    `sudo apt install gnome-shell-extensions`
