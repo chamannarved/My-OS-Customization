@@ -45,3 +45,14 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 - **icon Theme** - [McMojave-circle-blue-dark](https://github.com/vinceliuice/McMojave-circle)
 - **Shell Theme** - Mc-OS-CTLina-Gnome-Dark-1.1
 - **Wallpaper** - [My Wallpaper](wallpapers/Moon.jpg)
+
+## Extensions:-
+
+- **Add username to top panel** [ [Download](https://extensions.gnome.org/extension/1108/add-username-to-top-panel/) ]
+  > simply add your username to topbar aggregate menu
+- **Applications menu** [ Enable it in tweaks ]
+  > Add a category-based menu for applications.
+- **Clipboard indicator** [ [Download](https://extensions.gnome.org/extension/779/clipboard-indicator/) ]
+  > Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and caches clipboard history.
+- **Dash to dock** [ [Download](https://extensions.gnome.org/extension/307/dash-to-dock/) ]
+  > A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. Side and bottom placement options are available.
