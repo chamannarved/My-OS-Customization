@@ -30,3 +30,10 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 ### Enable user themes in Ubuntu 18.04
 
     `sudo apt install gnome-shell-extensions`
+
+## Appearance:-
+
+- **Applications Theme** - [Mc-OS-CTLina-Gnome-Dark-1.1](https://github.com/paullinuxthemer/Mc-OS-themes)
+- **Cursor Theme** - [Capitaine](https://github.com/keeferrourke/capitaine-cursors) (dark is my default)
+- **Shell Theme** - Mc-OS-CTLina-Gnome-Dark-1.1
+- **Wallpaper** - [My Wallpaper](wallpapers/Moon.jpg)
