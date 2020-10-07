@@ -35,5 +35,6 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 
 - **Applications Theme** - [Mc-OS-CTLina-Gnome-Dark-1.1](https://github.com/paullinuxthemer/Mc-OS-themes)
 - **Cursor Theme** - [Capitaine](https://github.com/keeferrourke/capitaine-cursors) (dark is my default)
+- **icon Theme** - [McMojave-circle-blue-dark](https://github.com/vinceliuice/McMojave-circle)
 - **Shell Theme** - Mc-OS-CTLina-Gnome-Dark-1.1
 - **Wallpaper** - [My Wallpaper](wallpapers/Moon.jpg)
