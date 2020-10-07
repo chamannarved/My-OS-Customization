@@ -21,6 +21,13 @@
             `:+ssssssssssssssssssssss+:`           Memory: 4366MiB / 7869MiB
                 .-/+oossssssssoo+/-.
 
+## Screenshots
+
+![Screenshot-1](screenshots/Screenshot-1.png)
+![Screenshot-1](screenshots/Screenshot-2.png)
+![Screenshot-1](screenshots/Screenshot-3.png)
+![Screenshot-1](screenshots/Screenshot-4.png)
+
 ## First install Gnome Tweaks.
 
 Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
