@@ -70,4 +70,10 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
   > **Note:** _desh to dock_ have some isssue with _ubuntu dock_ so After these setting disable desh to dock extenton in _gnome-tweaks_ this will keeps the setting as it is but the ubuntu dock issus is solved.
 
 - **Frippery move clock** [ [Download](https://extensions.gnome.org/extension/2/move-clock/) ]
+
   > Move clock to left of status menu button.
+
+- **Gsconnect** [[Download](https://extensions.gnome.org/extension/1319/gsconnect/)]
+
+  > GSConnect is a complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration. It does not rely on the KDE Connect desktop application and will not work with it installed.  
+  > KDE Connect allows devices to securely share content like notifications or files and other features like SMS messaging and remote control. The KDE Connect team has applications for Linux, BSD, Android, Sailfish and Windows.
