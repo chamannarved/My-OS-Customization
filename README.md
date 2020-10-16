@@ -77,3 +77,6 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 
   > GSConnect is a complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration. It does not rely on the KDE Connect desktop application and will not work with it installed.  
   > KDE Connect allows devices to securely share content like notifications or files and other features like SMS messaging and remote control. The KDE Connect team has applications for Linux, BSD, Android, Sailfish and Windows.
+
+- **Panel osd** [ Download ]
+  > Configuring where on the (main) screen notifications will appear, instead of just above the massage tray.
