@@ -84,3 +84,10 @@ Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
 
 - **Simple net speed** [ [Doenload](https://extensions.gnome.org/extension/1085/simple-net-speed/) ]
   > Simply showing network speed. Left click to change modes.
+
+## Tweaks Settting (Optional)
+
+Only for small screens like leptops :-
+
+- **Fonts** (Open tweaks and goto **fonts**)
+  > Set **scaling fector** to **0.80**
