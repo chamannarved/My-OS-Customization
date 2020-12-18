@@ -1,0 +1,9 @@
+# List of app that I use in my Linux system
+
+## #Discord [ [ Downlad ] ](www.discord.com)
+
+Discord is an American VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers." Servers are a collection of persistent chat rooms and voice chat channels.
+
+## #Figma [ [ Download ] ](www.figma.com)
+
+Figma helps teams create, test, and ship better designs from start to finish. Try Figma for free See how it works. Meet our customers. Design. Fast and powerful, just like your work. Packed with design features you already love plus unique inventions like the Arc tool and Vector Networks, Figma helps you keep the ideas flowing.
