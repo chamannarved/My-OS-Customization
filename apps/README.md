@@ -15,3 +15,11 @@ gitg is a graphical user interface for git. It aims at being a small, fast and c
 ## #Timeshift [ [ Download ] ](https://github.com/teejee2008/timeshift/releases)
 
 Timeshift – free and open source software for creating snapshots of the file system
+
+## #Gimp [ [ Download ] ](https;//www.gimp.org/downloads)
+
+GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes. Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
+
+## #Inkscape [ [ Download ] ](https://inkscape.org)
+
+Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics format. Other formats can be imported and exported. Inkscape can render primitive vector shapes and text.
