@@ -23,3 +23,7 @@ GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and
 ## #Inkscape [ [ Download ] ](https://inkscape.org)
 
 Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics format. Other formats can be imported and exported. Inkscape can render primitive vector shapes and text.
+
+## #Kazam [ [ Download ] ](https://launchpad.net/kazam)
+
+Kazam is a simple screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.
