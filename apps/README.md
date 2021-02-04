@@ -27,3 +27,7 @@ Inkscape is a free and open-source vector graphics editor used to create vector 
 ## #Kazam [ [ Download ] ](https://launchpad.net/kazam)
 
 Kazam is a simple screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.
+
+## #Kdenlive [ [ Download ] ](https://kdenlive.org/en/download)
+
+Kdenlive is a free and open-source video editing software based on the MLT Framework, KDE and Qt. The project was started by Jason Wood in 2002, and is now maintained by a small team of developers. With the release of Kdenlive 15.04.0 it became part of the official KDE project. Kdenlive packages are freely available for Linux, FreeBSD, and Microsoft Windows, and the source code is available under the terms of GNU General Public License version 2 or any later version.
