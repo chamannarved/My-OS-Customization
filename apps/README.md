@@ -31,3 +31,7 @@ Kazam is a simple screen recording program that will capture the content of your
 ## #Kdenlive [ [ Download ] ](https://kdenlive.org/en/download)
 
 Kdenlive is a free and open-source video editing software based on the MLT Framework, KDE and Qt. The project was started by Jason Wood in 2002, and is now maintained by a small team of developers. With the release of Kdenlive 15.04.0 it became part of the official KDE project. Kdenlive packages are freely available for Linux, FreeBSD, and Microsoft Windows, and the source code is available under the terms of GNU General Public License version 2 or any later version.
+
+## #mailspring [ [ Download ] ](https://getmailspring.com/download)
+
+Mailspring has been translated into German, French, Spanish, Korean, Japanese, Chinese, Polish and Brazilian Portuguese by volunteer contributors and machine-translated into 60 more languages so you'll feel right at home. A right-to-left layout for Hebrew and Arabic ensures it blends in to your desktop.
