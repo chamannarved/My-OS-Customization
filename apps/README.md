@@ -35,3 +35,7 @@ Kdenlive is a free and open-source video editing software based on the MLT Frame
 ## #mailspring [ [ Download ] ](https://getmailspring.com/download)
 
 Mailspring has been translated into German, French, Spanish, Korean, Japanese, Chinese, Polish and Brazilian Portuguese by volunteer contributors and machine-translated into 60 more languages so you'll feel right at home. A right-to-left layout for Hebrew and Arabic ensures it blends in to your desktop.
+
+## #Mega [ [ Download ] ](https://mega.nz/downloadapp)
+
+MEGA provides user-controlled encrypted cloud storage and chat through standard web browsers, together with dedicated apps for mobile devices. Unlike other cloud storage providers, your data is encrypted and decrypted by your client devices only and never by us. Upload your files from your smartphone, tablet or computer then search, store, download, stream, view, share, rename or delete your files any time.
