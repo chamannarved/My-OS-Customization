@@ -43,3 +43,7 @@ MEGA provides user-controlled encrypted cloud storage and chat through standard 
 ## #Onlyoffice [ [ Download ] ](https://www.onlyoffice.com/en/download-desktop.aspx)
 
 ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats:.docx,.xlsx,.pptx and enabling collaborative editing in real time.
+
+## #Planner [ [ Download ] ](https://useplanner.com/)
+
+Organize Everything in Life We're a productive application that helps you achieve your goals. Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
