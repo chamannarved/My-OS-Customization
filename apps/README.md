@@ -47,3 +47,7 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 ## #Planner [ [ Download ] ](https://useplanner.com/)
 
 Organize Everything in Life We're a productive application that helps you achieve your goals. Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
+
+## #Simplenote [ [ Download ] ](https://simplenote.com/)
+
+The simplest way to keep notes All your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.
