@@ -51,3 +51,7 @@ Organize Everything in Life We're a productive application that helps you achiev
 ## #Simplenote [ [ Download ] ](https://simplenote.com/)
 
 The simplest way to keep notes All your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.
+
+## #slack [ [ Download ] ](https://slack.com/downloads)
+
+Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
