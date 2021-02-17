@@ -55,3 +55,7 @@ The simplest way to keep notes All your notes, synced on all your devices. Get S
 ## #slack [ [ Download ] ](https://slack.com/downloads)
 
 Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
+
+## #spotify [ [ Download ] ](https://spotify.com)
+
+Spotify is a freemium application. While the basic version of the app is free, it comes with limited features. While the basic version of the app is free, it comes with limited features. Moreover, it displays ads, which can be disruptive to your listening experience.
