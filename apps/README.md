@@ -63,3 +63,7 @@ Spotify is a freemium application. While the basic version of the app is free, i
 ## #Vim [ [ Download ] ](https://www.vim.org/download.php)
 
 Vim is a clone, with additions, of Bill Joy's vi text editor program for Unix. Vim's author, Bram Moolenaar, based it on the source code for a port of the Stevie editor to the Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface.
+
+## #VS code [ [ Download ] ](https://code.visualstudio.com/Download)
+
+Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
