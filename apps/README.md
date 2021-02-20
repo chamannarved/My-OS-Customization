@@ -67,3 +67,7 @@ Vim is a clone, with additions, of Bill Joy's vi text editor program for Unix. V
 ## #VS code [ [ Download ] ](https://code.visualstudio.com/Download)
 
 Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+
+## #VLC [ [ Download ] ](https://www.videolan.org/vlc/)
+
+VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
