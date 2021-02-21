@@ -71,3 +71,7 @@ Visual Studio Code is a free source-code editor made by Microsoft for Windows, L
 ## #VLC [ [ Download ] ](https://www.videolan.org/vlc/)
 
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+## #Zoom [ [ Download ] ](https://zoom.us/support/download)
+
+Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms.
