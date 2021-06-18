@@ -1,25 +1,24 @@
-# My-Fadora-Customisation 🔧🔨🔩
+# My-Fadora-Customization 🔧🔨🔩
 
-                .-/+oossssssssoo+/-.               chaman@MY-CODE-LAPTOP
-           `:+sssssssssssssssssssssss+:`           ---------------------
-          -+ssssssssssssssssssssssyyssss+-         OS: Ubuntu 18.04.5 LTS x86_64
-        .ossssssssssssssssssssssdMMMNysssso.       Host: 81DE Lenovo ideapad 330-15IKB
-       /ssssssssssshdmmNNNNNNmmyNMMMMhssssss/      Kernel: 5.4.0-48-generic
-      +ssssssssshmydMMMMMMMMMMMNddddyssssssss+     Uptime: 4 days, 1 hour, 12 mins
-     /sssssssshNMMMyhhyyyyyyyyhmNMMMNhssssssss/    Packages: 2457
-    .ssssssssdMMMNhsssssssssssssshNMMMdssssssss.   Shell: bash 4.4.20
-    +sssshhhyNMMNyssssssssssssssssyNMMMysssssss+   Resolution: 1366x768
-    ossyNMMMNyMMhsssssssssssssssssshmmmhssssssso   DE: GNOME 3.28.4
-    ossyNMMMNyMMhsssssssssssssssssshmmmhssssssso   WM: GNOME Shell
-    +sssshhhyNMMNyssssssssssssssssyNMMMysssssss+   WM Theme: Mc-OS-CTLina-Gnome-Dark-1.
-    .ssssssssdMMMNhsssssssssssssshNMMMdssssssss.   Theme: Mc-OS-CTLina-Gnome-Dark-1.1 [
-     /sssssssshNMMMyhhyyyyyyyyhdNMMMNhssssssss/    Icons: McMojave-circle-blue-dark [GT
-      +sssssssssdmydMMMMMMMMMMMMddddyssssssss+     Terminal: gnome-terminal
-       /ssssssssssshdmNNNNNNNNmyNMMMMhssssss/      CPU: Intel i5-8250U (8) @ 3.400GHz
-        .ossssssssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce MX150
-          -+sssssssssssssssssssssyyyssss+-         GPU: Intel UHD Graphics 620
-            `:+ssssssssssssssssssssss+:`           Memory: 4366MiB / 7869MiB
-                .-/+oossssssssoo+/-.
+          /:-------------:\          chamannarved@my-code-laptop 
+       :-------------------::        --------------------------- 
+     :-----------/shhOHbmp---:\      OS: Fedora release 34 (Thirty Four) x86_64 
+   /-----------omMMMNNNMMD  ---:     Host: 81DE Lenovo ideapad 330-15IKB 
+  :-----------sMMMMNMNMP.    ---:    Kernel: 5.12.9-300.fc34.x86_64 
+ :-----------:MMMdP-------    ---\   Uptime: 36 mins 
+,------------:MMMd--------    ---:   Packages: 2120 (rpm), 41 (flatpak) 
+:------------:MMMd-------    .---:   Shell: bash 5.1.0 
+:----    oNMMMMMMMMMNho     .----:   Resolution: 1366x768 
+:--     .+shhhMMMmhhy++   .------/   DE: GNOME 40.2 
+:-    -------:MMMd--------------:    WM: Mutter 
+:-   --------/MMMd-------------;     WM Theme: Mc-OS-CTLina-Gnome-Dark-1.1 
+:-    ------/hMMMy------------:      Theme: Mc-OS-CTLina-Gnome-Dark-1.1 [GTK2/3] 
+:-- :dMNdhhdNMMNo------------;       Icons: McMojave-circle [GTK2/3] 
+:---:sdNMMMMNds:------------:        Terminal: gnome-terminal 
+:------:://:-------------::          CPU: Intel i5-8250U (8) @ 1.600GHz 
+:---------------------://            GPU: Intel UHD Graphics 620 
+                                     GPU: NVIDIA GeForce MX150 
+                                     Memory: 3607MiB / 7859MiB 
 
 ## Screenshots
 
