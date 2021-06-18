@@ -29,13 +29,13 @@
 
 ## First install Gnome Tweaks.
 
-Run the following command to install the Gnome Tweak tool on Ubuntu 18.04:
+Run the following command to install the Gnome Tweak tool on Fedora 34 workstation:
 
     sudo apt install gnome-tweak-tool
 
-### Enable user themes in Ubuntu 18.04
+### Enable user themes in Fedora 34 workstation:
 
-     sudo apt install gnome-shell-extensions
+     sudo dnf install gnome-shell-extensions
 
 ## Appearance:-
 
