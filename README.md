@@ -31,7 +31,7 @@
 
 Run the following command to install the Gnome Tweak tool on Fedora 34 workstation:
 
-    sudo apt install gnome-tweak-tool
+    sudo dnf install gnome-tweak-tool
 
 ### Enable user themes in Fedora 34 workstation:
 
