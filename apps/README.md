@@ -1,5 +1,9 @@
 # List of Softwares I use in daily basics and my personal favorites.
 
+## #Signal App [ [ Download ] ](https://signal.org/download)
+
+Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected.
+
 ## #Discord [ [ Download ] ](https://discord.com/)
 
 Discord is an American VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers." Servers are a collection of persistent chat rooms and voice chat channels.
@@ -48,6 +52,9 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 Organize Everything in Life We're a productive application that helps you achieve your goals. Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
 
+## #Joplin [ [ Download ] ](https://joplinapp.org)
+
+Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.. Notes exported from Evernote via .enex files can be imported into Joplin, including the formatted ...
 ## #Simplenote [ [ Download ] ](https://simplenote.com/)
 
 The simplest way to keep notes All your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.
