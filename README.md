@@ -81,7 +81,7 @@ Run the following command to install the Gnome Tweak tool on Fedora 34 workstati
 
   > Configuring where on the (main) screen notifications will appear, instead of just above the massage tray.
 
-- **Simple net speed** [ [Doenload](https://extensions.gnome.org/extension/1085/simple-net-speed/) ]
+- **Simple net speed** [ [Download](https://extensions.gnome.org/extension/1085/simple-net-speed/) ]
   > Simply showing network speed. Left click to change modes.
 
 ## Tweaks Settting (Optional)
