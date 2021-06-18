@@ -53,20 +53,6 @@ Run the following command to install the Gnome Tweak tool on Fedora 34 workstati
   > Add a category-based menu for applications.
 - **Clipboard indicator** [ [Download](https://extensions.gnome.org/extension/779/clipboard-indicator/) ]
   > Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and caches clipboard history.
-- **Dash to dock** [ [Download](https://extensions.gnome.org/extension/307/dash-to-dock/) ]
-
-  > A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. Side and bottom placement options are available.  
-  >  **- Setting Screenshots**
-  >
-  > > ![Screenshot-1](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-1.png)  
-  > > ![Screenshot-2](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-2.png)  
-  > > ![Screenshot-3](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-3.png)  
-  > > ![Screenshot-4](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-4.png)
-  > >
-  > > > ![Screenshot-5](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-5.png)  
-  > > > ![Screenshot-6](extensions-screenshots/desh-to-dock/desh-to-dock-Screenshot-6.png)
-
-  > **Note:** _desh to dock_ have some isssue with _ubuntu dock_ so After these setting disable desh to dock extenton in _gnome-tweaks_ this will keeps the setting as it is but the ubuntu dock issus is solved.
 
 - **Frippery move clock** [ [Download](https://extensions.gnome.org/extension/2/move-clock/) ]
 
