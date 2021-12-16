@@ -82,3 +82,11 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 ## #Zoom [ [ Download ] ](https://zoom.us/support/download)
 
 Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms.
+
+## #Bitwarden [[ Download ]](https://bitwarden.com/download)
+
+Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a command-line interface. Bitwarden offers a cloud-hosted service as well as the ability to deploy the solution on-premises.
+
+## #BalenaEtcher [[ Download ]](https://balena-etcher.eu/)
+
+Etcher is a program that allows you to easily and comfortably record images of your operating system to SD cards and any removable disks, and to perform this operation in three steps, everything is simple! The developer's motto is, creating an installation media for the selected operating system should be a simple ...
