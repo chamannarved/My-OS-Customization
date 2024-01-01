@@ -1,3 +1,5 @@
+> **Note:** Switch to deffrent branch for other OS customizations. 
+
 # My-Fadora-Customization 🔧🔨🔩
  
               /:-------------:\          chamannarved@my-code-laptop 
